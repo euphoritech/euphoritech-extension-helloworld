@@ -1,0 +1,15 @@
+{
+  "name": "euphoritech-extension-helloworld",
+  "version": "1.0.0",
+  "description": "Simple example of how to build extensions to be used within the euphoritech platform",
+  "main": "index.js",
+  "engines": {
+    "node": "8.11.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euphoritech/euphoritech-extension-helloworld.git"
+  },
+  "author": "Lance Whatley <lance@euphoritech.com>",
+  "license": "MIT"
+}
